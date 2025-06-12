@@ -1,4 +1,4 @@
-<!DOCTYPE html>
+!DOCTYPE html>
 <html>
 
 <head></head>
@@ -7,13 +7,17 @@
 </head>
 
 <body>        
-    <h1>noticias tecnologicas</h1>
-<p>refuerzo tecnologia  </p>
+    <h2>noticias tecnologicas</h2>
+    <h2>refuerzo tecnologia  </h2>
     <h2>informacion de la noticia</h2>
     <p>El robot humanoide chino Tiangong cruzó la línea de meta tras 2 horas, 40 minutos y 42 segundos de carrera, convirtiéndose en el primero en completar una media maratón en un entorno urbano real en la capital del país asiático.</p>
 <body>
     <h2>imagen</h2>
-    jose.jpg}
+    jose.jpg
+
+ <body>
+    <h2>tabla</h2>
+ </body>
     <table border="1">
         <tr>
             <th>materias de pepito</th>
