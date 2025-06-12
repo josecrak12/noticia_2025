@@ -1,4 +1,4 @@
-!DOCTYPE html>
+<!DOCTYPE html>
 <html>
 
 <head></head>
@@ -13,14 +13,14 @@
     <p>El robot humanoide chino Tiangong cruzó la línea de meta tras 2 horas, 40 minutos y 42 segundos de carrera, convirtiéndose en el primero en completar una media maratón en un entorno urbano real en la capital del país asiático.</p>
 <body>
     <h2>imagen</h2>
-    jose.jpg
+    https://media.eitb.eus/multimedia/images/2025/04/19/3550469/20250419150301_tiangong-robot_amp_w1200.jpg
 
  <body>
     <h2>tabla</h2>
  </body>
     <table border="1">
+        <th>materias de pepito</th>
         <tr>
-            <th>materias de pepito</th>
             <td>matematias</td>
             <td>100%</td>
         </tr>
